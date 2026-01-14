@@ -1,8 +1,3 @@
-Absolutely. Here’s a polished, professional, developer-focused **README.md** for your SaintScript GitHub repository. It’s fully optimized for readability, GitHub display, and immediate developer onboarding.
-
----
-
-````md
 # SaintScript v0.1 Alpha
 
 **Client-Side Scripting Engine for Minecraft**  
